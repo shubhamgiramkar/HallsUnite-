@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HallsUnite - Abstract</title>
    
 </head>
 <body>
@@ -13,6 +12,6 @@
     <p>The primary goal of HallsUnite is to streamline the booking process, reducing the time and effort required to secure a suitable event space. By utilizing an event hall booking system like HallsUnite, organizations and individuals can experience increased efficiency, reduced costs, improved communication, and enhanced customer satisfaction. The system also provides real-time updates on reservations and manages payments, aiding event planners in better managing their events.</p>
     <p>Overall, HallsUnite serves as a valuable tool for any organization or individual that needs to book event spaces on a regular basis.</p>
 
-    <
+    
 </body>
 </html>
